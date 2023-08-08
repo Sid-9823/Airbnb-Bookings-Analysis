@@ -72,6 +72,13 @@ Even though Airbnb does not own any real estate, it produced $8.4 billion in i
    * ***There are more reviews for the price range of 0 - 500$.***
 
    * ***Review starts decreasing as prices go up, which means more customers prefer affordable stays.***
+    
+
+After examining over 49,000 homes on Airbnb, it appears that the service has offered owners an extra source of revenue and given visitors an alternative to typical hotels by offering bed and breakfasts with a homely atmosphere.
+
+The dataset's 16 measurement variables provided a deep understanding of the property's many qualities, which were throughout time filtered by the market's preference.
+
+These components were analyzed, and solutions for the preferred business goal were provided.
 
    * ***In Manhattan, hosts prefer a minimum stay of around 8 days.***
 
