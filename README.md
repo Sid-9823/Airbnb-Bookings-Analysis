@@ -4,6 +4,12 @@
 
 <H2>Problem Statement</H2>
 
+An online marketplace called Airbnb specializes in providing experiences and short-term homestays. The business serves as a broker and takes a commission from each reservation. Its headquarters are in San Francisco, California.
+
+So in this project, we'll be mostly performing EDA on the dataset and deriving useful insights that will help stakeholders and top management in decision-making.
+
+These are a few questions that would help us derive the most information from the dataset:
+
 * **What is the number of Airbnb apartments in each neighborhood group ?**
 
 * **How much does a unit cost on average in each neighborhood group ?**
@@ -40,34 +46,35 @@ Even though Airbnb does not own any real estate, it produced $8.4 billion in i
 
 * ***While performing EDA, we found out:***
  
- * ***Manhattan has the highest number of Airbnb apartments, followed by Brooklyn.***
+   * ***Manhattan has the highest number of Airbnb apartments, followed by Brooklyn.***
 
- * ***Unit costs are highest in Manhattan, followed by Brooklyn and Staten Island.***
+   * ***Unit costs are highest in Manhattan, followed by Brooklyn and Staten Island.***
 
- * ***Lowest unit cost is in the Bronx.***
+   * ***Lowest unit cost is in the Bronx.***
 
- * ***Williamsburg has the highest number of Airbnb units, followed by Bedford and Harlem.***
+   * ***Williamsburg has the highest number of Airbnb units, followed by Bedford and Harlem.***
 
- * ***Willowbrook, Woodrow, Fort Wadsworth, Rosville, New Dorp, and Richmondtown only have one unit, while the rest four have two units.***
+   * ***Willowbrook, Woodrow, Fort Wadsworth, Rosville, New Dorp, and Richmondtown only have one unit, while the rest four have two units.***
 
- * ***Among the top 10 cheap neighborhood Airbnb units, Bull's Head, Hunt's Point, and Tremont units are the cheapest.***
+   * ***Among the top 10 cheap neighborhood Airbnb units, Bull's Head, Hunt's Point, and Tremont units are the cheapest.***
 
- * ***Among the top 10 most expensive neighborhood Airbnb units, Upper West Side, Greenpoint, and Astoria units are the most expensive, followed by the Lower East Side and East Harlem.***
+   * ***Among the top 10 most expensive neighborhood Airbnb units, Upper West Side, Greenpoint, and Astoria units are the most expensive, 
+        followed by the Lower East Side and East Harlem.***
  
- * ***In Manhattan, the majority of the units are either entire homes or apartment types, followed by private room types.***
+   * ***In Manhattan, the majority of the units are either entire homes or apartment types, followed by private room types.***
 
- * ***In Brooklyn, the number of private room units is slightly higher as compared to apartments or entire homes.***
+   * ***In Brooklyn, the number of private room units is slightly higher as compared to apartments or entire homes.***
 
- * ***Shared room units are very few in all of the neighborhood groups.***
+   * ***Shared room units are very few in all of the neighborhood groups.***
 
- * ***Among all hosts, Michael and David are hosting the most Airbnb units, followed by Sonder, John, Alex, and several others.***
+   * ***Among all hosts, Michael and David are hosting the most Airbnb units, followed by Sonder, John, Alex, and several others.***
 
- * ***There are more reviews for the price range of 0 - 500$.***
+   * ***There are more reviews for the price range of 0 - 500$.***
 
- * ***Review starts decreasing as prices go up, which means more customers prefer affordable stays.***
+   * ***Review starts decreasing as prices go up, which means more customers prefer affordable stays.***
 
- * ***In Manhattan, hosts prefer a minimum stay of around 8 days.***
+   * ***In Manhattan, hosts prefer a minimum stay of around 8 days.***
 
- * ***In Brooklyn, hosts prefer a minimum stay of around 6 days.***
+   * ***In Brooklyn, hosts prefer a minimum stay of around 6 days.***
 
- * ***In Queens, hosts prefer a minimum stay of around 5 days.***
+   * ***In Queens, hosts prefer a minimum stay of around 5 days.***
